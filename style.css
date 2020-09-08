@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+.car {
+    width: 50px;
+    height: 100px;
+    background: transparent url('image/player-alternative.png') center / cover no-repeat;
+}
